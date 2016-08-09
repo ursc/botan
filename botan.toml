@@ -1,0 +1,10 @@
+[Bot]
+Token = "*"
+UseWebHook = false
+AdminChatId = 0
+Debug = true
+
+[Bot.WebHook]
+Host = "https://*/bot*"
+CertFile = "cert.pem"
+KeyFile = "key.pem"
